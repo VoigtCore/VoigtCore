@@ -1,16 +1,43 @@
-## Hi there 👋
+# VCore Technologies
 
-<!--
-**VoigtCore/VoigtCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adaptive Runtime Observability and Computational Telemetry
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Projects
+
+### VCore Pulse
+Real-time runtime observability and structural telemetry framework.
+
+### VCore Sentinel
+Adaptive behavioral and temporal security system focused on anomaly detection and computational monitoring.
+
+### VCore Docs
+Official technical papers, architecture and operational research repository.
+
+---
+
+## Focus Areas
+
+- Runtime Observability
+- Adaptive Monitoring
+- Temporal Analytics
+- Structural Telemetry
+- Behavioral Security
+- Computational Health Monitoring
+
+---
+
+## Stack
+
+- Node.js
+- React
+- Telemetry APIs
+- Runtime Engines
+- Real-time Dashboards
+
+---
+
+## Status
+
+Active experimental infrastructure running in live environments.
