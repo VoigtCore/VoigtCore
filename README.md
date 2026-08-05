@@ -1,4 +1,4 @@
-# VCore Technologies
+# VCore Tecnologia
 
 Adaptive Runtime Observability and Computational Telemetry
 
