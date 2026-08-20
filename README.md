@@ -1,43 +1,32 @@
-# VCore Tecnologia
+# VoigtCore
 
-Adaptive Runtime Observability and Computational Telemetry
+Tecnologia para identidade computacional, inteligência, memória e infraestrutura.
 
----
+Desenvolvemos tecnologias para ajudar computadores e sistemas a observar, lembrar e compreender o que acontece ao longo do tempo.
 
-## Core Projects
+## Ecossistema VCore
 
-### VCore Pulse
-Real-time runtime observability and structural telemetry framework.
+O ecossistema está em construção e reúne produtos e projetos próprios:
 
-### VCore Sentinel
-Adaptive behavioral and temporal security system focused on anomaly detection and computational monitoring.
+- **VCore One** — identidade e integridade da máquina.
+- **VCore Pulse** — Runtime Intelligence e observabilidade.
+- **VCore IA Memory** — inteligência artificial e memória computacional.
+- **VCore BlackBox** — memória operacional e auditoria temporal.
+- **VCore Sentinel** — segurança estrutural e identidade temporal.
+- **VCore Store** — marketplace de máquinas, equipamentos e tecnologia.
+- **VCore Finance** — inteligência financeira e identidade dos ativos.
+- **VCore Global Signal** — interpretação da trajetória financeira e geração de sinais.
+- **VCore Black Server** — infraestrutura e servidores.
 
-### VCore Docs
-Official technical papers, architecture and operational research repository.
+## VCore Pulse
 
----
+O Pulse observa o comportamento operacional de sistemas ao longo do tempo e transforma acontecimentos em contexto.
 
-## Focus Areas
+A versão 2.1.1 é o ciclo estável atual. A próxima grande evolução, **VCore Pulse 2.2**, está em desenvolvimento.
 
-- Runtime Observability
-- Adaptive Monitoring
-- Temporal Analytics
-- Structural Telemetry
-- Behavioral Security
-- Computational Health Monitoring
+## VoigtCore
 
----
+**VOIGTCORE TECNOLOGIA INOVA SIMPLES (I.S.)**  
+CNPJ 68.598.462/0001-96
 
-## Stack
-
-- Node.js
-- React
-- Telemetry APIs
-- Runtime Engines
-- Real-time Dashboards
-
----
-
-## Status
-
-Active experimental infrastructure running in live environments.
+[Website](https://www.voigtcore.com.br) · [VCore Pulse](https://github.com/VoigtCore/VCore-PULSE) · [Contato](mailto:rafael@voigtcore.com.br)
