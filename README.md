@@ -18,6 +18,9 @@ O VCore VLP/1 tem certificado de registro de programa de computador no INPI, pro
 
 ## Infraestrutura e documentação
 
+- [BlackBox Governance](https://github.com/VoigtCore/VCore-BlackBox)
+- [VCore Server](https://github.com/VoigtCore/VCore-Server)
+- [Protocolo VLP/1](https://github.com/VoigtCore/VCore-VLP)
 - [Conheça a visão pública da infraestrutura](https://github.com/VoigtCore/VCore-Docs/blob/main/SERVER_INFRASTRUCTURE.md)
 - [Catálogo do ecossistema](https://github.com/VoigtCore/VCore-Docs)
 - [VCore Pulse](https://github.com/VoigtCore/VCore-PULSE)
