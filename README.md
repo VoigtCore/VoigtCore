@@ -2,31 +2,38 @@
 
 Tecnologia para identidade computacional, inteligência, memória e infraestrutura.
 
-Desenvolvemos tecnologias para ajudar computadores e sistemas a observar, lembrar e compreender o que acontece ao longo do tempo.
+A VoigtCore desenvolve sistemas para observar, compreender e preservar o contexto operacional ao longo do tempo.
 
-## Ecossistema VCore
+## Produtos e estágio
 
-O ecossistema está em construção e reúne produtos e projetos próprios:
+- **VCore Pulse IA Monitor** — 2.1.1 é o ciclo estável público; a evolução 2.2 está em desenvolvimento.
+- **BlackBox Governance** — demonstração assistida em Windows; a venda aberta permanece bloqueada enquanto fechamos instalação, captura ponta a ponta e operação comercial.
+- **VCore Server e VLP/1** — identidade e comunicação governadas; o primeiro contato BlackBox/Server está limitado a ensaios de laboratório. Matrícula, autorização e ingestão empresarial seguem pendentes.
+- **VCore Native Container** — plataforma experimental de engenharia.
+- **VCore Engine Studio** — interface experimental Windows incluída no kit do Native Container, sem runtime próprio.
 
-- **VCore One** — identidade e integridade da máquina.
-- **VCore Pulse** — Runtime Intelligence e observabilidade.
-- **VCore IA Memory** — inteligência artificial e memória computacional.
-- **VCore BlackBox** — memória operacional e auditoria temporal.
-- **VCore Sentinel** — segurança estrutural e identidade temporal.
-- **VCore Store** — marketplace de máquinas, equipamentos e tecnologia.
-- **VCore Finance** — inteligência financeira e identidade dos ativos.
-- **VCore Global Signal** — interpretação da trajetória financeira e geração de sinais.
-- **VCore Black Server** — infraestrutura e servidores.
+## Protocolo registrado
 
-## VCore Pulse
+O VCore VLP/1 tem certificado de registro de programa de computador no INPI, processo BR512026007083-0, emitido em 1º de setembro de 2026. Esse registro não é patente do protocolo, certificação de segurança nem validação de conformidade.
 
-O Pulse observa o comportamento operacional de sistemas ao longo do tempo e transforma acontecimentos em contexto.
+## Infraestrutura e documentação
 
-A versão 2.1.1 é o ciclo estável atual. A próxima grande evolução, **VCore Pulse 2.2**, está em desenvolvimento.
+- [Conheça a visão pública da infraestrutura](https://github.com/VoigtCore/VCore-Docs/blob/main/SERVER_INFRASTRUCTURE.md)
+- [Catálogo do ecossistema](https://github.com/VoigtCore/VCore-Docs)
+- [VCore Pulse](https://github.com/VoigtCore/VCore-PULSE)
+- [VCore Native Container](https://github.com/VoigtCore/VCore-Native-Container)
 
-## VoigtCore
+O relatório público de infraestrutura é uma fotografia datada; não declara SLA nem publica endereços, portas, credenciais ou topologia interna.
+
+## Livro
+
+**Engenharia da Continuidade Estrutural — Fundamentos matemáticos da Computação Estrutural Temporal**, de Rafael Felippe Voigt. ISBN da edição digital: **978-65-970107-0-7**. Há demonstrativos públicos de 30 páginas em cinco idiomas; o livro integral permanece reservado.
+
+[Conheça o livro e leia os demonstrativos](https://www.voigtcore.com.br/noticias/engenharia-da-continuidade-estrutural/)
+
+## Empresa
 
 **VOIGTCORE TECNOLOGIA INOVA SIMPLES (I.S.)**  
 CNPJ 68.598.462/0001-96
 
-[Website](https://www.voigtcore.com.br) · [VCore Pulse](https://github.com/VoigtCore/VCore-PULSE) · [Contato](mailto:rafael@voigtcore.com.br)
+[Website](https://www.voigtcore.com.br) · [Documentação](https://github.com/VoigtCore/VCore-Docs) · [Contato](https://www.voigtcore.com.br/)
